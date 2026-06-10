@@ -1,4 +1,4 @@
-# React + Vite
+# Basic Breathing App
 
 Basic Breathing App
 
